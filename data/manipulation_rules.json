@@ -1,0 +1,29 @@
+{
+  "fear_words": [
+    "shocking",
+    "danger",
+    "secret",
+    "hidden",
+    "urgent",
+    "warning",
+    "truth",
+    "exposed",
+    "crisis"
+  ],
+
+  "share_words": [
+    "share",
+    "forward",
+    "send to everyone",
+    "spread this",
+    "share now"
+  ],
+
+  "clickbait_words": [
+    "breaking",
+    "you won't believe",
+    "must see",
+    "unbelievable",
+    "exclusive"
+  ]
+}

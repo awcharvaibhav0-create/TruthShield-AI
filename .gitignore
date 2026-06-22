@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.env
+.venv/
+__pycache__/
+# Google Cloud Service Account
+antigravity-learning-499616-b2995aaa5a8f.json
+# Google Cloud Credentials
+credentials/

@@ -1,1 +1,4 @@
-
+google-adk
+streamlit
+google-generativeai
+python-dotenv
